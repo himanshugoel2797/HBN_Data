@@ -1,8 +1,45 @@
 {
-    "Items" :[
-      { "Name" : "Doom", "ID" : 0, "Icon" : "icon.png", "Type" : "App" },
-      { "Name" : "Action", "ID" : 0, "Icon" : "icon.png", "Type" : "Sub", "Items" : [
-          { "Name" : "Quake", "ID" : 1, "Icon" : "icon.png", "Type" : "App"}
-      ]}
+    "Items": [
+        {
+            "Name": [
+                {
+                    "us": "Doom"
+                },
+                {
+                    "en": "Doom"
+                }
+            ],
+            "ID": 0,
+            "Icon": "icon.png",
+            "Type": "App"
+        },
+        {
+            "Name": [
+                {
+                    "us": "Action"
+                },
+                {
+                    "en": "Action"
+                }
+            ],
+            "ID": 0,
+            "Icon": "icon.png",
+            "Type": "Sub",
+            "Items": [
+                {
+                    "Name": [
+                        {
+                            "us": "Quake"
+                        },
+                        {
+                            "en": "Quake"
+                        }
+                    ],
+                    "ID": 1,
+                    "Icon": "icon.png",
+                    "Type": "App"
+                }
+            ]
+        }
     ]
 }

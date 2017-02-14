@@ -1,9 +1,45 @@
 {
-    "LatestAppVer" : [0, 1],
-    "AppDownloadURL" : "",
-    "Categories" :[
-        { "Name" : "New", "File" : "cat_2.json", "Icon" : "icon.png" },
-        { "Name" : "Games", "File" : "cat_0.json", "Icon" : "icon.png" },
-        { "Name" : "Tools", "File" : "cat_1.json", "Icon" : "icon.png" }
+    "LatestAppVer": [
+        0,
+        1
+    ],
+    "AppDownloadURL": "",
+    "Categories": [
+        {
+            "Name": [
+                {
+                    "us": "New"
+                },
+                {
+                    "en": "New"
+                }
+            ],
+            "File": "cat_2.json",
+            "Icon": "icon.png"
+        },
+        {
+            "Name": [
+                {
+                    "us": "Games"
+                },
+                {
+                    "en": "Games"
+                }
+            ],
+            "File": "cat_0.json",
+            "Icon": "icon.png"
+        },
+        {
+            "Name": [
+                {
+                    "us": "Tools"
+                },
+                {
+                    "en": "Tools"
+                }
+            ],
+            "File": "cat_1.json",
+            "Icon": "icon.png"
+        }
     ]
 }
