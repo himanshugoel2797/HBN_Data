@@ -1,0 +1,9 @@
+{
+    "LatestAppVer" : [0, 1],
+    "AppDownloadURL" : "",
+    "Categories" :[
+        { "Name" : "New", "File" : "cat_2.json", "Icon" : "icon.png" },
+        { "Name" : "Games", "File" : "cat_0.json", "Icon" : "icon.png" },
+        { "Name" : "Tools", "File" : "cat_1.json", "Icon" : "icon.png" }
+    ]
+}
