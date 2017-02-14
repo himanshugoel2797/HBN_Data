@@ -11,7 +11,7 @@
             ],
             "ID": 0,
             "Icon": "icon.png",
-            "Type": "App"
+            "Type": 2
         },
         {
             "Name": [
@@ -24,7 +24,7 @@
             ],
             "ID": 0,
             "Icon": "icon.png",
-            "Type": "Sub",
+            "Type": 1,
             "Items": [
                 {
                     "Name": [
@@ -37,7 +37,7 @@
                     ],
                     "ID": 1,
                     "Icon": "icon.png",
-                    "Type": "App"
+                    "Type": 2
                 }
             ]
         }

@@ -4,7 +4,7 @@
         1
     ],
     "AppDownloadURL": "",
-    "Categories": [
+    "Items": [
         {
             "Name": [
                 {
@@ -15,7 +15,8 @@
                 }
             ],
             "File": "cat_2.json",
-            "Icon": "icon.png"
+            "Icon": "icon.png",
+            "Type": 0
         },
         {
             "Name": [
@@ -27,7 +28,8 @@
                 }
             ],
             "File": "cat_0.json",
-            "Icon": "icon.png"
+            "Icon": "icon.png",
+            "Type": 0
         },
         {
             "Name": [
@@ -39,7 +41,8 @@
                 }
             ],
             "File": "cat_1.json",
-            "Icon": "icon.png"
+            "Icon": "icon.png",
+            "Type": 0
         }
     ]
 }
